@@ -1,5 +1,5 @@
 # Linear-switched-system-LSS
-The code for the second numerical example of the paper "On Krylov subspace implemwntation of ParaExp for linear switched systems" subjected to IEEE Control System Letters
+The code for the second numerical example of the paper "On Krylov subspace implementation of ParaExp for linear switched systems" subjected to IEEE Control System Letters
 ## A large-scale linear switched system constructed from the 2D convection-diffusion equation
 Consider the convection-diffusion equation
 
